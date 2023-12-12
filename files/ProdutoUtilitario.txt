@@ -1,0 +1,10 @@
+UtileArte&Co;Escova clean;Escova de banho; Produtos Utilitarios;653221;10.00;5;1
+UtileArte&Co;Escova clean;Escova de banho;Produtos Utilitarios;653221;10.00;3;2
+UtileArte&Co;Shampoo para pets;Shampoo;Produtos Utilitarios;123456;15.50;2;3
+UtileArte&Co;Afiador de unhas para gatos;Miscelaneas;Produtos Utilitarios;789012;25.00;5;4
+UtileArte&Co;Kit de Potes para cachorro;Alimentação;Produtos Utilitarios;456789;18.75;5;5
+UtileArte&Co;Coleira ajustável;Lazer;Produtos Utilitarios;987654;8.99;3;6
+UtileArte&Co;Areia higiênica para gatos;Saude;Produtos Utilitarios;654321;12.25;2;7
+UtileArte&Co;Tigela de alimentação;alimentação;Produtos Utilitarios;135792;6.50;5;8
+UtileArte&Co;Tapete higiênico;Saude;Produtos Utilitarios;246810;9.99;3;9
+UtileArte&Co;Guia retrátil;Miscelaneas;Produtos Utilitarios;112233;15.75;4;10

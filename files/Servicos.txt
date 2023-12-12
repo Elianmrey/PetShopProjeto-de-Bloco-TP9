@@ -1,0 +1,15 @@
+125.92;Consulta Veterinaria;4;Maikel Ruiz;Dermatologia;Rotinario;1278458;1
+125.92;Consulta Veterinaria;4;Maikel Ruiz;Dermatologia;Rotinario;1278458;2
+78.45;Exame Laboratorial;2;Carla Oliveira;Cardiologia;Urgente;9845632;6
+200.00;Cirurgia;6;Ricardo Silva;Ortopedia;Rotinario;7532149;5
+95.30;Consulta Veterinaria;3;Ana Santos;Oftalmologia;Urgente;6897421;6
+150.75;Exame Radiologico;5;Pedro Almeida;Neurologia;Rotinario;5247896;7
+82.60;Consulta Veterinaria;2;Marta Pereira;Dermatologia;Urgente;3652148;7
+175.40;Cirurgia;4;João Oliveira;Cardiologia;Rotinario;8963254;4
+68.90;Exame Laboratorial;1;Isabel Costa;Ortopedia;Urgente;4712589;5
+130.25;Consulta Veterinaria;5;Carlos Rodrigues;Oftalmologia;Rotinario;6321458;1
+95.80;Exame Radiologico;3;Catarina Silva;Neurologia;Urgente;7896541;1
+112.30;Consulta Veterinaria;6;Luis Santos;Dermatologia;Rotinario;1478523;4
+87.15;Exame Laboratorial;2;Sofia Pereira;Cardiologia;Urgente;3698742;8
+160.00;Cirurgia;4;Tiago Costa;Ortopedia;Rotinario;9852147;9
+75.45;Consulta Veterinaria;3;Beatriz Oliveira;Oftalmologia;Urgente;6321458;9

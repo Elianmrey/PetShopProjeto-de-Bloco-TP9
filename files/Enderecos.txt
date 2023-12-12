@@ -1,0 +1,36 @@
+Av. da Lua;Florianópolis;SC;34567-890;1738;1
+Av. da Lua;Florianópolis;SC;34567-890;1738;2
+Rua das Estrelas;Porto Alegre;RS;54321-098;1256;3
+Travessa do Sol;São Paulo;SP;12345-678;2047;4
+Avenida Marte;Rio de Janeiro;RJ;98765-432;1789;5
+Rua Júpiter;Belém;PA;45678-901;1563;6
+Alameda Vênus;Fortaleza;CE;23456-789;1892;7
+Avenida Saturno;Salvador;BA;56789-012;1976;8
+Rua Mercúrio;Recife;PE;67890-123;1345;9
+Travessa Netuno;Natal;RN;89012-345;1654;10
+Avenida Urano;Curitiba;PR;01234-567;1423;11
+Rua Plutão;Brasília;DF;23456-789;1987;12
+Alameda Terra;Manaus;AM;45678-901;1765;13
+Avenida Netuno;Vitória;ES;56789-012;1850;14
+Rua Júpiter;João Pessoa;PB;89012-345;1629;15
+Travessa Mercúrio;Campo Grande;MS;01234-567;1945;16
+Alameda Marte;Maceió;AL;23456-789;1802;17
+Avenida Saturno;Porto Velho;RO;34567-890;1524;18
+Rua Vênus;Teresina;PI;45678-901;1683;19
+Travessa Urano;Aracaju;SE;56789-012;1998;20
+Alameda Plutão;Cuiabá;MT;89012-345;1376;21
+Avenida Terra;Goiania;GO;01234-567;1487;22
+Rua Netuno;Palmas;TO;23456-789;1579;23
+Travessa Mercúrio;São Luís;MA;89012-345;1745;24
+Alameda Júpiter;Boa Vista;RR;01234-567;1865;25
+Avenida Plutão;Palmas;TO;23456-789;1934;26
+Travessa Netuno;Recife;PE;34567-890;1612;27
+Alameda Saturno;Curitiba;PR;45678-901;1723;28
+Rua Mercúrio;Natal;RN;56789-012;1543;29
+Avenida Urano;Brasília;DF;89012-345;1856;30
+Travessa Vênus;Vitória;ES;01234-567;1609;31
+Rua Terra;São Paulo;SP;23456-789;1780;32
+Avenida Marte;Fortaleza;CE;34567-890;1489;33
+Travessa Júpiter;Manaus;AM;56789-012;1932;34
+Alameda Plutão;Maceió;AL;67890-123;1678;35
+Campo Grande;Taubate;MS;78901-234;1512;36

@@ -1,0 +1,9 @@
+Bastão de Borracha;23.95;Brinquedos;43210;Didatico;PetsBrinquedosco.;3;5;true;6
+Arranhador de Gato;35.50;Arranhadores;54321;Recreativo;PetsBrinquedos & co.;4;4;true;8
+Osso de Nylon;19.95;Brinquedos;65432;Didático;PetsBrinquedos & co.;3;4;true;5
+Bolinha de Borracha Saltitante;8.99;Brinquedos;76543;Recreativo;PetsBrinquedos & co.;3;4;true;5
+Cachorro de Pelúcia com Apito;12.75;Brinquedos;87654;Didático;PetsBrinquedos & co.;2;3;true;3
+Argola para Morder;7.99;Brinquedos;98765;Recreativo;PetsBrinquedos & co.;3;4;true;2
+Tapete Interativo;42.75;Tapetes;21098;Recreativo;PetsBrinquedos & co.;4;5;true;1
+Comedouro Interativo;25.99;Alimentação;32109;Didático;PetsBrinquedos & co.;3;4;true;1
+Pássaro Eletrônico;18.50;Brinquedos;43210;Recreativo;PetsBrinquedos & co.;4;4;true;1
